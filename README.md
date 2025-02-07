@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi there! 👋 I'm Sharaf  
 
 I'm a **college student** passionate about the exciting world of **Data Engineering**. My journey revolves around turning raw data into meaningful insights and building efficient data pipelines that power modern applications.  
