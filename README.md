@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋! I'm Sharaf</h1>
-<p>I'm a college student passionate about the exciting world of Data Engineering. My journey revolves around turning raw data into meaningful insights and building efficient data pipelines that power modern applications.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharaf2OO2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
