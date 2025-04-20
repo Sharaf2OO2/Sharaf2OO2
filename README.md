@@ -1,9 +1,13 @@
 <h1 align="left">Hello There👋! </h1>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sharaf2OO2&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharaf2OO2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/9ZaHRi1YBf7fReFF04/giphy.gif?cid=790b76113ssb0xuie9bi5z765u7h4talbbnbjmzkmv5gwpml&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlwYWg2aGpqMWNhdDAwbDd5eTV2dHI3N3JyZm5xdzM5dzNmOXNqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 ###
 
